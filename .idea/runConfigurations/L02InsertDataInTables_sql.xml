@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="L02InsertDataInTables.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L02InsertDataInTables.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="2e0519f2-8b7c-4703-be20-6adb2ebbff54" namespace="schema/&quot;default_database&quot;" />
+    <method v="2" />
+  </configuration>
+</component>

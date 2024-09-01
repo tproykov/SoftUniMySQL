@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="L01CreateTables.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L01CreateTables.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="2e0519f2-8b7c-4703-be20-6adb2ebbff54" namespace="schema/&quot;default_database&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
