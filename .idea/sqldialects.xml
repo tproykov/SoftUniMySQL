@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E00CreateDatabase.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E01CreateTables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L01CreateTables.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L02InsertDataInTables.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L03AlterTables.sql" dialect="MySQL" />
   </component>
