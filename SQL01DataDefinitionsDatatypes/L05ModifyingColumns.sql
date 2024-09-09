@@ -1,3 +1,3 @@
-USE default_database;
+USE temp;
 ALTER TABLE employees
     MODIFY COLUMN middle_name VARCHAR(100);
