@@ -1,1 +1,1 @@
-create database temp;
+CREATE DATABASE minions;

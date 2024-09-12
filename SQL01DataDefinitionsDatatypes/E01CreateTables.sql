@@ -1,14 +1,9 @@
-CREATE TABLE employees (
+CREATE TABLE minions (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    first_name VARCHAR(30) NOT NULL,
-    last_name VARCHAR(30) NOT NULL
+    name VARCHAR(30) NOT NULL,
+    age INT
 );
-CREATE TABLE categories (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(50) NOT NULL
-);
-CREATE TABLE products (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(50) NOT NULL,
-    category_id INT NOT NULL
+CREATE TABLE towns (
+    town_id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(50)
 );
