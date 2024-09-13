@@ -3,6 +3,17 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E00CreateDatabase.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E01CreateTables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E02AlterMinionsTable.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E03InsertRecordsInBothTables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E04TruncateTableMinions.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E05DropAllTables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E06CreateTablePeople.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E07CreateTableUsers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E08ChangePrimaryKey.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E09SetDefaultValueOfAField.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E10SetUniqueField.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E11MoviesDatabase.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/E12CarRentalDatabase.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L01CreateTables.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L02InsertDataInTables.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L03AlterTables.sql" dialect="MySQL" />
