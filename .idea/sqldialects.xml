@@ -24,6 +24,15 @@
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L03AlterTables.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L04AddingConstraints.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL01DataDefinitionsDatatypes/L05ModifyingColumns.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E01FindInformationAboutDepartments.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E02FindAllDepartmentNames.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E03FindSalaryOfEachEmployee.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E04FindFullNameEmployee.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E05FindEmailAddressesEachEmployee.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E06FindEachEmployeeSalaries.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E07FindAllInfoAboutEmployees.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E08AllEmployeesBySalary.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E24AllDiabloCharacters.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/L01SelectEmployeeInfo.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/L02SelectEmployeesFilter.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/L03UpdateEmployeesSalary.sql" dialect="MySQL" />
