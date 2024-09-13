@@ -39,6 +39,7 @@
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E13AllEmployeesExceptMarketing.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E14SortEmployeesTable.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E15CreateViewEmployeesSalaries.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E16CreateViewEmployeesWithJobTitles.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E24AllDiabloCharacters.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/L01SelectEmployeeInfo.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/L02SelectEmployeesFilter.sql" dialect="MySQL" />
