@@ -57,6 +57,7 @@
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L01FindBookTitles.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L02ReplaceTitles.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L03SumCostAllBooks.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L04DaysLived.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L04Triggered.sql" dialect="MySQL" />
   </component>
 </project>
