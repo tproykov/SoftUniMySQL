@@ -45,6 +45,7 @@
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E19Last7HiredEmployees.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E20IncreaseSalaries.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E21AllMountainPeaks.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E22BiggestCountriesByPopulation.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E23CountriesAndCurrency.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/E24AllDiabloCharacters.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL02BasicCRUD/L01SelectEmployeeInfo.sql" dialect="MySQL" />
