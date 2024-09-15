@@ -65,6 +65,7 @@
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/E09LengthOfLastName.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/E10CountriesHoldingA.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/E11MixOfPeakAndRiverName.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/E12GamesFrom2011And2012.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L01FindBookTitles.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L02ReplaceTitles.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L03SumCostAllBooks.sql" dialect="MySQL" />
