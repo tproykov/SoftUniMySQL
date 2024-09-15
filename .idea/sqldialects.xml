@@ -75,6 +75,13 @@
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L03SumCostAllBooks.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L04DaysLived.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL03BuiltInFunctions/L05HarryPotterBooks.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L01DepartmentInfo.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L02AverageSalary.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L03MinSalary.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L04AppetizersCount.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L05MenuPrices.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL05TableRelations/L01MountainsAndPeaks.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL05TableRelations/L02TripOrganization.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L04Triggered.sql" dialect="MySQL" />
   </component>
 </project>
