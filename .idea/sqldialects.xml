@@ -83,6 +83,7 @@
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/E06DepositSumOllivanderFamily.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/E07DepositsFilter.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/E08DepositCharge.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL04DataAggregation/E09DepositGroiup.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L01DepartmentInfo.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L02AverageSalary.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L03MinSalary.sql" dialect="MySQL" />
