@@ -1,4 +1,4 @@
 USE soft_uni;
-SELECT COUNT(salary)
+SELECT COUNT(*)
 FROM employees
 WHERE manager_id IS NULL;
