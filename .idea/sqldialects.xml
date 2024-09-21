@@ -90,6 +90,7 @@
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/E13EmployeeAverageSalaries.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/E14EmployeeMaximumSalaries.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/E15EmployeesCountSalaries.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL04DataAggregation/E16_3rdHighestSalary.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L01DepartmentInfo.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L02AverageSalary.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L03MinSalary.sql" dialect="MySQL" />
