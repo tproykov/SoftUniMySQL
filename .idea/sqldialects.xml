@@ -100,6 +100,7 @@
     <file url="file://$PROJECT_DIR$/SQL04DataAggregation/L05MenuPrices.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL05TableRelations/E01oneToOneRelationship.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL05TableRelations/E02OneToManyRelationship.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL05TableRelations/E03ManyToManyRelationship.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL05TableRelations/L01MountainsAndPeaks.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL05TableRelations/L02TripOrganization.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL05TableRelations/L03SoftUniHiking.sql" dialect="MySQL" />
