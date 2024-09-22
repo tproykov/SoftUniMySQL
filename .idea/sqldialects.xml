@@ -124,6 +124,7 @@
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/E14CountriesWithRivers.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/E15ContinentsCurrencies.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/E16CountriesWithoutMount.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/E17HighestPeakLongestRiver.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/L01Managers.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/L02TownsAndAddresses.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/L03EmployeesWithoutManagers.sql" dialect="MySQL" />
