@@ -115,6 +115,7 @@
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/E05EmployeesWithoutProject.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/E06EmployeesHiredAfter.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/E07EmployeesWithProject.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/E08Employee24.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/L01Managers.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/L02TownsAndAddresses.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL06SubqueriesAndJOINs/L03EmployeesWithoutManagers.sql" dialect="MySQL" />
