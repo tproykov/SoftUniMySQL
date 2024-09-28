@@ -132,6 +132,7 @@
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E01EmployeesSalaryAbove.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L01CountEmployeesByTown.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L02EmployeesPromotion.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L03EmployeesPromotionByID.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L04Triggered.sql" dialect="MySQL" />
   </component>
 </project>
