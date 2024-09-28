@@ -135,6 +135,7 @@
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E04EmployeesFromrTown.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E05SalaryLevelFunction.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E06EmployesBySalaryLevel.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E07DefineFunction.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L01CountEmployeesByTown.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L02EmployeesPromotion.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L03EmployeesPromotionByID.sql" dialect="MySQL" />
