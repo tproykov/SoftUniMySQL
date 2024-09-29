@@ -1,3 +1,4 @@
+-- For JUDGE upload the full code of Exercise 15 first!
 CREATE TABLE notification_emails (
     id INT UNIQUE AUTO_INCREMENT,
     recipient INT NOT NULL,
