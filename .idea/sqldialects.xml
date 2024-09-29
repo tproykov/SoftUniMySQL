@@ -140,10 +140,21 @@
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E09PeopleWithBalance.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E10FutureValueFunction.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E11CalculatingInterest.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E12DepositMoney.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E13WithdrawnMoney.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E14MoneyTransfer.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E15LogAccountTrigger.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/E16EmailTrigger.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L01CountEmployeesByTown.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L02EmployeesPromotion.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L03EmployeesPromotionByID.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L04Triggered.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E02Inserts.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E05Cities.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E06StudentAge.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
