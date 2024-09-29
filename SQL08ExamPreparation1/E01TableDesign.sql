@@ -1,3 +1,4 @@
+CREATE DATABASE universities;
 CREATE TABLE countries
 (
     id   INT PRIMARY KEY AUTO_INCREMENT,
