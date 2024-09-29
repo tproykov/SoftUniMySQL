@@ -1,4 +1,4 @@
-CREATE TABLE notifications_emails (
+CREATE TABLE notification_emails (
     id INT UNIQUE AUTO_INCREMENT,
     recipient INT NOT NULL,
     subject VARCHAR(50),
