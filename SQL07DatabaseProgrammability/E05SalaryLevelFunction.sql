@@ -1,3 +1,4 @@
+USE soft_uni;
 DELIMITER $$
 CREATE FUNCTION ufn_get_salary_level(salary DECIMAL(15,4))
 RETURNS VARCHAR(10)

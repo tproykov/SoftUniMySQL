@@ -1,3 +1,4 @@
+USE soft_uni;
 DELIMITER $$
 CREATE PROCEDURE usp_get_towns_starting_with(name_start VARCHAR(10))
 BEGIN

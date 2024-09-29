@@ -1,3 +1,4 @@
+USE bank;
 DELIMITER $$
 CREATE PROCEDURE usp_get_holders_with_balance_higher_than(balance_higher DECIMAL(15, 4))
 BEGIN

@@ -1,3 +1,4 @@
+USE soft_uni;
 DELIMITER $$
 CREATE PROCEDURE usp_get_employees_by_salary_level(salary_level VARCHAR(10))
 BEGIN

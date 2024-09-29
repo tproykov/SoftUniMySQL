@@ -1,3 +1,4 @@
+USE soft_uni;
 DELIMITER $$
 CREATE PROCEDURE usp_get_employees_from_town(town_name VARCHAR(50))
 BEGIN

@@ -1,3 +1,4 @@
+USE bank;
 DELIMITER $$
 CREATE FUNCTION ufn_calculate_future_value(sum DECIMAL(15, 4), yearly_interest_rate DOUBLE, years INT)
 RETURNS DECIMAL(15, 4)

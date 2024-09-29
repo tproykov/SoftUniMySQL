@@ -1,3 +1,4 @@
+USE bank;
 DELIMITER $$
 CREATE PROCEDURE usp_calculate_future_value_for_account(account_id INT, interest_rate DECIMAL(10, 4))
 BEGIN

@@ -1,3 +1,4 @@
+USE bank;
 DELIMITER $$
 CREATE PROCEDURE usp_get_holders_full_name()
 BEGIN

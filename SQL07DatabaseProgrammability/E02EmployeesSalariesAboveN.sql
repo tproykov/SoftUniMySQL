@@ -1,3 +1,4 @@
+USE soft_uni;
 DELIMITER $$
 CREATE PROCEDURE usp_get_employees_salary_above(salary_above DECIMAL(15, 4))
 BEGIN
