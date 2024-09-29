@@ -6,6 +6,7 @@ BEGIN
         THEN ROLLBACK;
     ELSE
         UPDATE employees SET salary = salary * 1.05 WHERE employee_id = id;
+        COMMIT;
     END IF;
 END $$
 DELIMITER ;
