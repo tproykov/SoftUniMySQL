@@ -154,12 +154,12 @@
     <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E03Update.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E04Delete.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E05Cities.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E06StudentAge.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E07NewStudents.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E08StudentsCount.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E09PriceRanking.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E10AverageGrades.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E11GraduateStudents.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/e06StudentAge.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
