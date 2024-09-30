@@ -154,7 +154,7 @@
     <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E03Update.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E04Delete.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E05Cities.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/E06StudentAge.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL08ExamPreparation1/e06StudentAge.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
