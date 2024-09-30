@@ -1,14 +1,14 @@
 -- CREATE DATABASE IF NOT EXISTS real_estate;
 CREATE TABLE cities (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(60) NOT NULL
+    name VARCHAR(60) NOT NULL UNIQUE
 );
 CREATE TABLE buyers (
     id INT PRIMARY KEY AUTO_INCREMENT,
     first_name VARCHAR(40) NOT NULL,
     last_name VARCHAR(40) NOT NULL,
-    phone VARCHAR(20) NOT NULL,
-    email VARCHAR(50) NOT NULL,
+    phone VARCHAR(20) NOT NULL UNIQUE,
+    email VARCHAR(50) NOT NULL UNIQUE,
     city_id INT,
     FOREIGN KEY (city_id) REFERENCES cities(id)
 );
@@ -16,19 +16,19 @@ CREATE TABLE agents (
     id INT PRIMARY KEY AUTO_INCREMENT,
     first_name VARCHAR(40) NOT NULL,
     last_name VARCHAR(40) NOT NULL,
-    phone VARCHAR(20) NOT NULL,
-    email VARCHAR(50) NOT NULL,
+    phone VARCHAR(20) NOT NULL UNIQUE,
+    email VARCHAR(50) NOT NULL UNIQUE,
     city_id INT,
     FOREIGN KEY (city_id) REFERENCES cities(id)
 );
 CREATE TABLE property_types (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    type VARCHAR(40) NOT NULL,
+    type VARCHAR(40) NOT NULL UNIQUE,
     description TEXT
 );
 CREATE TABLE properties (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    address VARCHAR(80) NOT NULL,
+    address VARCHAR(80) NOT NULL UNIQUE,
     price DECIMAL(19, 2) NOT NULL,
     area DECIMAL(19, 2),
     property_type_id INT,
@@ -42,7 +42,7 @@ CREATE TABLE property_transactions (
     buyer_id INT NOT NULL,
     transaction_date DATE,
     bank_name VARCHAR(30),
-    iban VARCHAR(40),
+    iban VARCHAR(40) UNIQUE,
     is_successful BOOLEAN,
     FOREIGN KEY (property_id) REFERENCES properties(id),
     FOREIGN KEY (buyer_id) REFERENCES buyers(id)
