@@ -166,6 +166,8 @@
     <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E04Delete.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E05Agents.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E06OffersFrom2021.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E07PropertiesWithoutOffers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E08BestBanks.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
