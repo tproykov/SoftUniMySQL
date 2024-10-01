@@ -172,6 +172,7 @@
     <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E10OffersCountInACity.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E11SpecialOffer.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL10Wildlife/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E02Insert.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
