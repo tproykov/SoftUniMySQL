@@ -171,17 +171,17 @@
     <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E09SizeOfTheArea.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E10OffersCountInACity.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E11SpecialOffer.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E05MostExperiencedWorkers.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E06WorkersSalary.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E07ArmedWorkersCount.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E08OldestPreserves.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E09PreserveCategories.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E10ExstractAverageSalary.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E11ImprovingStandardLiving.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E05MostExperiencedWorkers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E06WorkersSalary.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E07ArmedWorkersCount.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E08OldestPreserves.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E09PreserveCategories.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E10ExstractAverageSalary.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E11ImprovingStandardLiving.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
