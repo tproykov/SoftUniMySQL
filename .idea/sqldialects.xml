@@ -180,6 +180,7 @@
     <file url="file://$PROJECT_DIR$/SQL10Wildlife/E07ArmedWorkersCount.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL10Wildlife/E08OldestPreserves.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL10Wildlife/E09PreserveCategories.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL10Wildlife/E10ExstractAverageSalary.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>

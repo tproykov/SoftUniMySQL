@@ -1,0 +1,19 @@
+DELIMITER $$
+CREATE FUNCTION udf_average_salary_by_position_name (position_name VARCHAR(40))
+RETURNS DECIMAL(19, 2)
+DETERMINISTIC
+BEGIN
+    DECLARE average_salary DECIMAL(19, 2);
+    SET average_salary := (
+        SELECT AVG(w.salary)
+        FROM workers AS w
+                 JOIN positions AS p ON w.position_id = p.id
+        WHERE p.name = position_name
+        );
+    RETURN average_salary;
+END $$
+DELIMITER ;
+
+
+SELECT p.name, udf_average_salary_by_position_name('Forester') as position_average_salary FROM positions p
+WHERE p.name = 'Forester'
