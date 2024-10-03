@@ -149,44 +149,6 @@
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L02EmployeesPromotion.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L03EmployeesPromotionByID.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL07DatabaseProgrammability/L04Triggered.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E02Inserts.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E05Cities.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E07NewStudents.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E08StudentsCount.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E09PriceRanking.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E10AverageGrades.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/E11GraduateStudents.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL08ExamUniversities/e06StudentAge.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E05Agents.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E06OffersFrom2021.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E07PropertiesWithoutOffers.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E08BestBanks.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E09SizeOfTheArea.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E10OffersCountInACity.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL09ExamRealEstate/E11SpecialOffer.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E05MostExperiencedWorkers.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E06WorkersSalary.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E07ArmedWorkersCount.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E08OldestPreserves.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E09PreserveCategories.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E10ExstractAverageSalary.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL10ExamWildlife/E11ImprovingStandardLiving.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL11ExamGoRoadie/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL11ExamGoRoadie/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL11ExamGoRoadie/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL11ExamGoRoadie/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL11ExamGoRoadie/E05YoungestStudents.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
