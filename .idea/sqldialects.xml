@@ -162,6 +162,7 @@
     <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E04Delete.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E05Airplanes.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E06FlightsFrom2022.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E07PrivateFlights.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
