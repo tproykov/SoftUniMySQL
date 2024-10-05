@@ -156,26 +156,52 @@
     <file url="file://$PROJECT_DIR$/SQL11ExamGoRoadie/E09InstructorsExperienceLevel.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL11ExamGoRoadie/E10AvgLessonPriceByCity.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL11ExamGoRoadie/E11DrivingSchoolByBrand.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E05Airplanes.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E06FlightsFrom2022.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E07PrivateFlights.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E08LeadingDestinations.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E09PartsOfTheDay.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E10NumberOfFlights.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE12ExamAirlines/E11DelayFlight.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E05Clients.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E06Birthdate.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E07Accounts.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E08TopFromMenu.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE13ExamRestaurant/E09Availability.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E05Airplanes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E06FlightsFrom2022.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E07PrivateFlights.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E08LeadingDestinations.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E09PartsOfTheDay.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E10NumberOfFlights.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL12ExamAirlines/E11DelayFlight.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E05Clients.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E06Birthdate.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E07Accounts.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E08TopFromMenu.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E09Availability.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E10ExtractBill.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL13ExamRestaurant/E11HappyHour.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E05Countries.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E06OldMovies.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E07MovieCasting.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E08InternationalFestival.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E09RatingSystem.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E10HistoryMovies.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL14ExamInternetMovie/E11MovieAwards.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E05Categories.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E06Quantity.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E07Review.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E08FirstCustomers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E09BestCategories.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E10ClientCardCount.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E11ReducePrice.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL16ExamInstagraph/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL16ExamInstagraph/E06Cheaters.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
