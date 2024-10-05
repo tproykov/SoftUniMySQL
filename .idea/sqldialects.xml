@@ -202,17 +202,17 @@
     <file url="file://$PROJECT_DIR$/SQL15ExamOnlineStore/E11ReducePrice.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL16ExamInstagraph/E01TableDesign.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL16ExamInstagraph/E06Cheaters.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E05Employees.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E06AddressesTeams.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E07CategoriesInfo.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E08GamesOf2022.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E09FullInfoForGames.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E10FindAllBasicInfo.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL17Exam/E11UpdateBudgetGames.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E05Employees.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E06AddressesTeams.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E07CategoriesInfo.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E08GamesOf2022.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E09FullInfoForGames.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E10FindAllBasicInfo.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E11UpdateBudgetGames.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
