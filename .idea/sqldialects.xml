@@ -189,17 +189,17 @@
     <file url="file://$PROJECT_DIR$/SQLE14ExamInternetMovie/E09RatingSystem.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQLE14ExamInternetMovie/E10HistoryMovies.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQLE14ExamInternetMovie/E11MovieAwards.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E05Categories.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E06Quantity.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E07Review.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E08FirstCustomers.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E09BestCategories.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E10ClientCardCount.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQLE15Exam/E11ReducePrice.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E05Categories.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E06Quantity.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E07Review.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E08FirstCustomers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E09BestCategories.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E10ClientCardCount.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQLE15ExamOnlineStore/E11ReducePrice.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
