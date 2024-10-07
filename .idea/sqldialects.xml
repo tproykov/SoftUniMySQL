@@ -213,6 +213,17 @@
     <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E09FullInfoForGames.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E10FindAllBasicInfo.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL17ExamSoftUniGameDev/E11UpdateBudgetGames.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E05Cars.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E06DriversAndCars.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E07NumberOfCourses.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E08RegularClients.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E09FullInfoCourses.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E10FindAllCourses.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E11FullInfoAddress.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
