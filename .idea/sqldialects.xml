@@ -224,17 +224,17 @@
     <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E09FullInfoCourses.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E10FindAllCourses.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL18SoftUniTaxiCompany/E11FullInfoAddress.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E05Employees.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E06ProductsOldPictures.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E07CountOfProducts.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E08SpecificEmployee.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E09AllInformationOfStores.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E10TopPaidEmployee.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL19Exam/E11UpdateProductPrice.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E05Employees.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E06ProductsOldPictures.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E07CountOfProducts.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E08SpecificEmployee.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E09AllInformationOfStores.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E10TopPaidEmployee.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E11UpdateProductPrice.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
