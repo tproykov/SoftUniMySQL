@@ -1,0 +1,17 @@
+DELIMITER $$
+CREATE FUNCTION
+RETURNS
+DETERMINISTIC
+BEGIN
+    DECLARE
+    SET := (
+
+
+
+
+
+           )
+
+
+END $$
+DELIMITER ;
