@@ -235,6 +235,16 @@
     <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E09AllInformationOfStores.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E10TopPaidEmployee.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E11UpdateProductPrice.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E05.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E06.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E07.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E08.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E09.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL20Exam/E10.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
