@@ -259,6 +259,7 @@
     <file url="file://$PROJECT_DIR$/SQL22ExamRoyalUnitedKingsman/E10ExtractCardCount.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL22ExamRoyalUnitedKingsman/E11ClientInfo.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL23Exam/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL23Exam/E02Insert.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
