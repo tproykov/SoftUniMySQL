@@ -236,17 +236,17 @@
     <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E10TopPaidEmployee.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL19ExamTripleS/E11UpdateProductPrice.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL20ExamInstaInfluencers/E11.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E02Insert.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E03Update.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E04Delete.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E05Players.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E06YoungOffencePlayer.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E07DetailInfo.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E08TheFastestPlayer.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E09TotalSalariesAndPlayers.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E10FindAllPlayers.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL21Exam/E11FindGoodPlaymaker.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E05Players.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E06YoungOffencePlayer.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E07DetailInfo.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E08TheFastestPlayer.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E09TotalSalariesAndPlayers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E10FindAllPlayers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL21ExamFootballScout/E11FindGoodPlaymaker.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
