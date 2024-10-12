@@ -258,8 +258,19 @@
     <file url="file://$PROJECT_DIR$/SQL22ExamRoyalUnitedKingsman/E09BranchCards.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL22ExamRoyalUnitedKingsman/E10ExtractCardCount.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/SQL22ExamRoyalUnitedKingsman/E11ClientInfo.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL23Exam/E01TableDesign.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/SQL23Exam/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL23ExamColonialJourney/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL23ExamColonialJourney/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E01TableDesign.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E02Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E03Update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E04Delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E05CountriesNoAthletes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E06YoungestMedalists.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E07AthletesWithoutMedals.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E08AthletesMedals.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E09AgeGroupsAthletes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E10TotalCountMedals.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/SQL24ExamSummerOlympics121024/E11UpdateAthleteInfo.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
